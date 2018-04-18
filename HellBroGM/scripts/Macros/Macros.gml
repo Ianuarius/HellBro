@@ -1,7 +1,7 @@
 #macro tilesize 16
-#macro level_width 170
-#macro level_height 140
-#macro camera_speed 20
+#macro level_width 100
+#macro level_height 100
+#macro camera_speed 16
 
 global.level_grid = ds_grid_create(level_width, level_height);
 
