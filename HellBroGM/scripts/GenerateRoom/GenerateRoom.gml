@@ -2,7 +2,7 @@
 // Set a size for a room
 
 var min_mroom_size = 10;
-var max_mroom_size = 12;
+var max_mroom_size = 20;
 max_mroom_size -= min_mroom_size;
 var mroom_width = random(max_mroom_size) + min_mroom_size;
 var mroom_height = random(max_mroom_size) + min_mroom_size;
